@@ -22,7 +22,7 @@ class Pokemon
   end
 
   def BONUS
-    binding.pry
+
   end
 
 end
