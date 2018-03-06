@@ -9,7 +9,6 @@ class Pokemon
     @type = type
     @hp = hp
     @db = db
-    binding.pry
   end
 
   def self.save(name, type, db)
